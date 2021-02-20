@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<link  type="text/css" rel="stylesheet" href="index.css"/>
+		<script src="./js/bird.js"></script>
+		<script src="./js/column.js"></script>
+		<script src="./js/index.js"></script>
+		<script type="text/javascript">
+			
+		</script>
+	</head>
+	<body>
+		<canvas id="canvas" width="800px" height="400px"></canvas>
+		<div class="mask" id="mask"></div>
+		<div id="res" class="res">
+			<h2 id="score">100</h2>
+			<img src="./img/medals1.png" />
+		</div>
+		<a href="#">restart</a>
+	</body>
+</html>
